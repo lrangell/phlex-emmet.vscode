@@ -1,5 +1,7 @@
 {
   "name": "phlex-emmet-ls",
+  "publisher": "LucasRangel",
+  "repository": "https://github.com/lrangell/phlex-emmet.vscode",
   "displayName": "phlex-emmet-ls",
   "description": "phlex-emmet-ls is a language server that provides [Emmet](https://emmet.io/) completions for [Phlex](https://www.phlex.fun/) templates.",
   "version": "0.0.1",
